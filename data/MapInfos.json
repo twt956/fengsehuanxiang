@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"帝子帝女幽会","order":1,"parentId":0,"scrollX":1092,"scrollY":586},
+{"id":2,"expanded":false,"name":"公元2016年","order":2,"parentId":0,"scrollX":1092,"scrollY":586},
+{"id":3,"expanded":true,"name":"陈塘关","order":3,"parentId":0,"scrollX":1082,"scrollY":624},
+{"id":4,"expanded":true,"name":"鱼府","order":4,"parentId":3,"scrollX":1081.3333333333333,"scrollY":800.6666666666666},
+{"id":5,"expanded":false,"name":"道具屋","order":5,"parentId":3,"scrollX":1092,"scrollY":586},
+{"id":6,"expanded":false,"name":"旅馆1F","order":6,"parentId":3,"scrollX":1092,"scrollY":586},
+{"id":7,"expanded":false,"name":"武器屋","order":7,"parentId":3,"scrollX":1092,"scrollY":586},
+{"id":8,"expanded":true,"name":"心魔空间","order":8,"parentId":3,"scrollX":1092,"scrollY":586}
+]
